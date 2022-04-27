@@ -1,0 +1,11 @@
+###################
+## Timothy Salazar
+## 4-27-22
+## Dog Facts
+###################
+Dogs are fuzzy!
+Dogs have paws!
+Dogs are very good!
+
+# Here's an untrue fact, BWAHAHA!!
+Dogs are ONLY MODERATELY AWESOME
