@@ -4,6 +4,7 @@
 ## Dog Facts
 ###################
 Dogs are fuzzy!
+Dogs are k9s!
 Dogs have paws!
 Dogs are very good!
 
