@@ -7,5 +7,3 @@ Dogs are fuzzy!
 Dogs have paws!
 Dogs are very good!
 
-# Here's an untrue fact, BWAHAHA!!
-Dogs are ONLY MODERATELY AWESOME
